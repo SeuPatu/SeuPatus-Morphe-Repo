@@ -1,4 +1,0 @@
-# nunca commitar APKs (o do Tomato tem ~103 MB, acima do limite de 100 MB do GitHub)
-*.apk
-*.apks
-*.xapk
