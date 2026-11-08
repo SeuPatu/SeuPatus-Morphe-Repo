@@ -20,4 +20,4 @@ Patches para o [Morphe](https://morphe.software) para o app **Tomato Animes** (`
 
 Depois do primeiro release, troca `USER/REPO`:
 
-https://morphe.software/add-source?github=USER/REPO
+https://morphe.software/add-source?github=SeuPatu/SeuPatus-Morphe-Repo
